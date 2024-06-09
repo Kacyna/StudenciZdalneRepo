@@ -1,1 +1,2 @@
 # StudenciZdalneRepo
+zmiana
